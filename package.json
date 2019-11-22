@@ -1,0 +1,11 @@
+{
+  "name": "malti-auth-with-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "both": "concurrently \"cd server && npm start \" \" cd client && npm start \""
+  },
+  "author": "",
+  "license": "ISC"
+}
